@@ -4,3 +4,5 @@ When the user clicks the Start button, it is hidden revealing the trivia questio
 When the user clicks the Submit button, the questions and timer are hidden and the user's score is revealed.
 The score shows the total number of questions answered correctly, incorrectly, and unanswered
 If the 30 second timer expires before the user clicks the Submit button, the questions and Submit button are hidden and the total number of questions answered correctly, incorrectly, and unanswered is displayed.
+
+https://patrickrice.github.io/TriviaGame/index.html
